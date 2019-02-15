@@ -2,4 +2,4 @@ Second file
 
 Testing repository on GitHub
 
-Add SSH kay
+Add SSH key
